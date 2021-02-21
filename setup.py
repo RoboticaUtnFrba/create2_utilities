@@ -1,9 +1,9 @@
-import os
 from glob import glob
+import os
+
 from setuptools import setup
 
 package_name = 'create2_utilities'
-
 
 data_files = []
 # Install marker file in the package index
